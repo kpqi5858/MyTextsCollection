@@ -1,0 +1,2 @@
+TF2-lol Sentry
+bind \ "ent_create obj_sentrygun defaultupgrade 2;ent_fire !picker setbuilder;ent_fire !picker sethealth 100000";bind ' "ent_fire !picker kill";bind [ "noclip"
